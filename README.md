@@ -42,4 +42,4 @@ Aplicação web desenvolvida com **Flask**, **MySQL** e **HTML/CSS** para ajudar
 
 **Allyson Ramos**  
 [![GitHub](https://img.shields.io/badge/GitHub-allysonramos--blibp-black?logo=github)](https://github.com/allysonramos-blibp)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Conecte--se-blue?logo=linkedin)](https://www.linkedin.com/feed/](https://www.linkedin.com/in/allyson-ramos-322b1a233/))
+[![LinkedIn](https://www.linkedin.com/in/allyson-ramos-322b1a233/)
