@@ -41,5 +41,9 @@ Aplicação web desenvolvida com **Flask**, **MySQL** e **HTML/CSS** para ajudar
 ### 👨‍💻 Autor
 
 **Allyson Ramos**  
-[![GitHub](https://img.shields.io/badge/GitHub-allysonramos--blibp-black?logo=github)](https://github.com/allysonramos-blibp)
-[![LinkedIn](https://www.linkedin.com/in/allyson-ramos-322b1a233/)
+### 👨‍💻 Autor
+
+**Allyson Ramos**  
+[![GitHub](https://img.shields.io/badge/GitHub-allysonramos--blibp-black?logo=github)](https://github.com/allysonramos-blibp)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Allyson%20Ramos-blue?logo=linkedin)](https://www.linkedin.com/in/allyson-ramos-322b1a233)
+
